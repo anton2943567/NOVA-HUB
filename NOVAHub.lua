@@ -1,1 +1,0 @@
-print("NOVA HUB loaded!")
